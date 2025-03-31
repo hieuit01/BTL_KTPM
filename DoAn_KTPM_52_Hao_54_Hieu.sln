@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.35826.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn_KTPM_52_Hao_54_Hieu", "DoAn_KTPM_52_Hao_54_Hieu\DoAn_KTPM_52_Hao_54_Hieu.csproj", "{FC097BBC-768C-4FE1-93EE-9B2932FFFA71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhChuNhatTester_52_Hao_54_Hieu", "HinhChuNhatTester_52_Hao_54_Hieu\HinhChuNhatTester_52_Hao_54_Hieu.csproj", "{D7528584-9805-4A3F-82E4-AC2E896B2406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC097BBC-768C-4FE1-93EE-9B2932FFFA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC097BBC-768C-4FE1-93EE-9B2932FFFA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC097BBC-768C-4FE1-93EE-9B2932FFFA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7528584-9805-4A3F-82E4-AC2E896B2406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7528584-9805-4A3F-82E4-AC2E896B2406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7528584-9805-4A3F-82E4-AC2E896B2406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7528584-9805-4A3F-82E4-AC2E896B2406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

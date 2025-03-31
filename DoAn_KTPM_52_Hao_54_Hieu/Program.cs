@@ -16,7 +16,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new HinhChuNhatApp());
         }
     }
 }

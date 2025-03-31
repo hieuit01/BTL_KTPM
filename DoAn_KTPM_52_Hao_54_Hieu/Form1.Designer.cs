@@ -1,7 +1,7 @@
 ﻿
 namespace DoAn_KTPM_52_Hao_54_Hieu
 {
-    partial class Form1
+    partial class HinhChuNhatApp
     {
         /// <summary>
         /// Required designer variable.
@@ -333,7 +333,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.txt_KqDT1_52_Hao_54_Hieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_KqDT1_52_Hao_54_Hieu.Location = new System.Drawing.Point(427, 394);
             this.txt_KqDT1_52_Hao_54_Hieu.Name = "txt_KqDT1_52_Hao_54_Hieu";
-            this.txt_KqDT1_52_Hao_54_Hieu.Size = new System.Drawing.Size(110, 34);
+            this.txt_KqDT1_52_Hao_54_Hieu.Size = new System.Drawing.Size(122, 34);
             this.txt_KqDT1_52_Hao_54_Hieu.TabIndex = 38;
             // 
             // txt_KqDT2_52_Hao_54_Hieu
@@ -341,7 +341,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.txt_KqDT2_52_Hao_54_Hieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_KqDT2_52_Hao_54_Hieu.Location = new System.Drawing.Point(695, 394);
             this.txt_KqDT2_52_Hao_54_Hieu.Name = "txt_KqDT2_52_Hao_54_Hieu";
-            this.txt_KqDT2_52_Hao_54_Hieu.Size = new System.Drawing.Size(112, 34);
+            this.txt_KqDT2_52_Hao_54_Hieu.Size = new System.Drawing.Size(121, 34);
             this.txt_KqDT2_52_Hao_54_Hieu.TabIndex = 39;
             // 
             // txt_KqKT_52_Hao_54_Hieu
@@ -358,7 +358,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.btn_TinhChuVi_52_Hao_54_Hieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btn_TinhChuVi_52_Hao_54_Hieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_TinhChuVi_52_Hao_54_Hieu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btn_TinhChuVi_52_Hao_54_Hieu.Location = new System.Drawing.Point(249, 514);
+            this.btn_TinhChuVi_52_Hao_54_Hieu.Location = new System.Drawing.Point(233, 514);
             this.btn_TinhChuVi_52_Hao_54_Hieu.Name = "btn_TinhChuVi_52_Hao_54_Hieu";
             this.btn_TinhChuVi_52_Hao_54_Hieu.Size = new System.Drawing.Size(149, 65);
             this.btn_TinhChuVi_52_Hao_54_Hieu.TabIndex = 42;
@@ -372,7 +372,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.btn_DuongCheo_52_Hao_54_Hieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btn_DuongCheo_52_Hao_54_Hieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_DuongCheo_52_Hao_54_Hieu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btn_DuongCheo_52_Hao_54_Hieu.Location = new System.Drawing.Point(427, 514);
+            this.btn_DuongCheo_52_Hao_54_Hieu.Location = new System.Drawing.Point(388, 514);
             this.btn_DuongCheo_52_Hao_54_Hieu.Name = "btn_DuongCheo_52_Hao_54_Hieu";
             this.btn_DuongCheo_52_Hao_54_Hieu.Size = new System.Drawing.Size(219, 65);
             this.btn_DuongCheo_52_Hao_54_Hieu.TabIndex = 43;
@@ -386,11 +386,11 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.btn_GiaoNhau_52_Hao_54_Hieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btn_GiaoNhau_52_Hao_54_Hieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_GiaoNhau_52_Hao_54_Hieu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btn_GiaoNhau_52_Hao_54_Hieu.Location = new System.Drawing.Point(675, 514);
+            this.btn_GiaoNhau_52_Hao_54_Hieu.Location = new System.Drawing.Point(613, 514);
             this.btn_GiaoNhau_52_Hao_54_Hieu.Name = "btn_GiaoNhau_52_Hao_54_Hieu";
-            this.btn_GiaoNhau_52_Hao_54_Hieu.Size = new System.Drawing.Size(141, 65);
+            this.btn_GiaoNhau_52_Hao_54_Hieu.Size = new System.Drawing.Size(241, 65);
             this.btn_GiaoNhau_52_Hao_54_Hieu.TabIndex = 44;
-            this.btn_GiaoNhau_52_Hao_54_Hieu.Text = "Giao nhau";
+            this.btn_GiaoNhau_52_Hao_54_Hieu.Text = "Kiểm tra giao nhau";
             this.btn_GiaoNhau_52_Hao_54_Hieu.UseVisualStyleBackColor = false;
             this.btn_GiaoNhau_52_Hao_54_Hieu.Click += new System.EventHandler(this.btn_GiaoNhau_52_Hao_54_Hieu_Click);
             // 
@@ -405,7 +405,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.label16.TabIndex = 45;
             this.label16.Text = "Kết quả kiểm tra";
             // 
-            // Form1
+            // HinhChuNhatApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -444,7 +444,7 @@ namespace DoAn_KTPM_52_Hao_54_Hieu
             this.Controls.Add(this.lbNhapDai_52_Hao_54_Hieu);
             this.Controls.Add(this.lbName_52_Hao_54_Hieu);
             this.Controls.Add(this.btn_TinhDT_52_Hao_54_Hieu);
-            this.Name = "Form1";
+            this.Name = "HinhChuNhatApp";
             this.Text = "Hình Chữ Nhật";
             this.ResumeLayout(false);
             this.PerformLayout();
